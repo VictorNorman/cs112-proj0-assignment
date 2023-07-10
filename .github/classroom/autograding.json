@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "step 7",
+      "setup": "make",
+      "run": "python test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    }
+  ]
+}
